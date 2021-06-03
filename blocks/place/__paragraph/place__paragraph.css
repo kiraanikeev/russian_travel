@@ -1,0 +1,13 @@
+.place__paragraph{
+    grid-area: text;
+    line-height: 29px;
+    font-size: 18px;
+    font-weight: 484;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+.place__paragraph:first-child{
+    margin-bottom: 26px;
+}

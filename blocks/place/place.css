@@ -1,0 +1,15 @@
+.place{
+    display: grid;
+    grid-template-columns: 460px 484px;
+    grid-template-rows: 152px 460px;
+    row-gap: 48px;
+    column-gap: 40px;
+    grid-template-areas:
+    /* "title ." */
+    "title website"
+    "photo text";
+}
+
+
+
+
