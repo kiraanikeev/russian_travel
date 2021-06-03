@@ -1,9 +1,15 @@
 .place_website_link{
-    line-height: 29,34px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
     font-size: 18px;
-    font-weight: 484;
+    line-height: 22px;
+    /* identical to box height, or 122% */
+    
+    text-decoration-line: underline;
+    
     color: #FFFFFF;
-    text-decoration: none;
+  ;
 }
 
 .place_website_link:hover{

@@ -1,7 +1,13 @@
 .place_website_url{
-    line-height: 29,34px;
-    font-size: 18px;
-    font-weight: 484;
-    color: #FFFFFF;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+    /* identical to box height, or 100% */
+    
+    letter-spacing: 0.2em;
+    
+    color: #AAAAAA;
     text-decoration: none;
 }

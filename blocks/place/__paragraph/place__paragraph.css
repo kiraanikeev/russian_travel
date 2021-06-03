@@ -1,8 +1,13 @@
 .place__paragraph{
     grid-area: text;
-    line-height: 29px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
     font-size: 18px;
-    font-weight: 484;
+    line-height: 163%;
+    /* or 29px */
+    
+    
     color: #FFFFFF;
     margin: 0;
     padding: 0;
