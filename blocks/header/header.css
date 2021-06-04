@@ -7,3 +7,9 @@ min-height: 52px;
 padding-top: 28px;
 
 }
+
+@media screen and (max-width: 320px) {
+    .header{
+        padding-top: 16px;
+    }
+  } 

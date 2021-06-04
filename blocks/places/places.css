@@ -4,3 +4,26 @@
     grid-template-rows: repeat(5, 660px);
     gap: 80px;
 }
+
+
+@media screen and (max-width: 1024px) {
+    .places{
+        grid-template-columns: 928px;
+        grid-template-rows: repeat(5, 640px);
+    }
+    }
+   
+    @media screen and (max-width: 768px) {
+        .places{
+            grid-template-columns: 720px;
+            grid-template-rows: repeat(5, 581px);
+            gap: 73px;
+        }        }
+      
+
+        @media screen and (max-width: 320px) {
+            .places{
+                grid-template-columns: 320px;
+                grid-template-rows: repeat(5, 1042px);
+                gap: 50px;
+            }        }

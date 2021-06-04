@@ -2,3 +2,22 @@
     margin-left:  148px;
     margin-right: 148px;
 }
+
+  @media screen and (max-width: 1024px) {
+    .page_margin_max{
+        margin-left:  48px;
+        margin-right: 48px;
+        
+    }} 
+  
+@media screen and (max-width: 768px) {
+    .page_margin_max{
+        margin-left:  24px;
+        margin-right: 24px;
+    }}
+      
+@media screen and (max-width: 320px) {
+    .page_margin_max{
+        margin-left:  16px;
+        margin-right: 16px;
+    }}

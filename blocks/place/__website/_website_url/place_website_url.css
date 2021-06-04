@@ -3,11 +3,12 @@
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
-    line-height: 12px;
-    /* identical to box height, or 100% */
-    
+    line-height: 170%;
     letter-spacing: 0.2em;
-    
     color: #AAAAAA;
     text-decoration: none;
 }
+
+@media screen and (max-width: 768px) {
+    .place_website_url{
+        line-height: 12px;}}
