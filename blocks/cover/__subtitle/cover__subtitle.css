@@ -15,10 +15,22 @@
     z-index: 2;
     max-width: 360px;
 }
+@media screen and (max-width: 770px) {
+    .cover__subtitle{
+        top: 63%;
+  } }
+
+@media screen and (max-width: 550px) {
+    .cover__subtitle{
+        font-size: 15px;
+        line-height: 18px;
+        top: 60%;
+  } }
 
 
-@media screen and (max-width: 320px) {
-    .cover__title{
+@media screen and (max-width: 350px) {
+    .cover__subtitle{
         font-size: 14px;
         line-height: 16px;
+        top: 67%;
   } }

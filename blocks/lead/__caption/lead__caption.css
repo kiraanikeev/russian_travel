@@ -8,3 +8,12 @@ font-weight: normal;
     color: #FFFFFF;
     margin-top: 8px;
 }
+
+
+
+
+@media screen and (max-width: 800px) {
+    .lead__caption{
+margin-left: 24px;
+    }
+  } 
