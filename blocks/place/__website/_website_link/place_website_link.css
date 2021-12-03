@@ -1,13 +1,13 @@
-.place_website_link{
-    font-family: Inter;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 22px;
-    text-decoration-line: underline;
-    color: #FFFFFF;
+.place_website_link {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #ffffff;
 }
 
-.place_website_link:hover{
-    opacity: 80%;
+.place_website_link:hover {
+  opacity: 80%;
 }

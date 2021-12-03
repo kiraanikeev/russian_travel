@@ -1,15 +1,13 @@
-.header{
-
-    display: flex;
-justify-content: space-between;
-align-items: center;
-min-height: 52px;
-padding-top: 28px;
-
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 52px;
+  padding-top: 28px;
 }
 
 @media screen and (max-width: 320px) {
-    .header{
-        padding-top: 16px;
-    }
-  } 
+  .header {
+    padding-top: 16px;
+  }
+}

@@ -1,24 +1,25 @@
-.page_margin_max{
-    margin-left:  148px;
-    margin-right: 148px;
+.page_margin_max {
+  margin-left: 148px;
+  margin-right: 148px;
 }
 
-  @media screen and (max-width: 1154px) {
-    .page_margin_max{
-        margin-left:  48px;
-        margin-right: 48px;
-        
-    }} 
-  
+@media screen and (max-width: 1154px) {
+  .page_margin_max {
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}
 
-    @media screen and (max-width: 800px) {
-        .page_margin_max{
-            margin-left:  24px;
-            margin-right: 24px;
-        }}
-      
+@media screen and (max-width: 800px) {
+  .page_margin_max {
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+}
+
 @media screen and (max-width: 460px) {
-    .page_margin_max{
-        margin-left:  0;
-        margin-right: 0;
-    }}
+  .page_margin_max {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

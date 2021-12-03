@@ -1,22 +1,11 @@
-.footer{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-
-/* @media screen and (max-width: 750px) {
-    .footer{
-        display: grid;
-        grid-template-columns: 190px;
-        grid-template-rows: repeat(6, auto);
-        row-gap: 32px;
-    }
-  }  */
-
-  @media screen and (max-width: 750px) {
-    .footer{
-        display: block;
-        /* margin: 32px auto 32px 16px; */
-    }
-  } 
+@media screen and (max-width: 750px) {
+  .footer {
+    display: block;
+  }
+}

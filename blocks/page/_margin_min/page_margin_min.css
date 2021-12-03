@@ -1,18 +1,18 @@
-.page_margin_min{
-    margin-left:  48px;
-    margin-right: 48px;
+.page_margin_min {
+  margin-left: 48px;
+  margin-right: 48px;
 }
 
+@media screen and (max-width: 1000px) {
+  .page_margin_min {
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+}
 
-    @media screen and (max-width: 1000px) {
-        .page_margin_min{
-            margin-left:  24px;
-            margin-right: 24px;
-        
-        }}
-     
-        @media screen and (max-width: 550px) {
-            .page_margin_min{
-                margin-left:  16px;
-                margin-right: 16px;
-            }}
+@media screen and (max-width: 550px) {
+  .page_margin_min {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}

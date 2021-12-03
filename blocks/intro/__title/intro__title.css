@@ -1,21 +1,21 @@
-.intro__title{
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 54px;
-    line-height: 58px;
-    color: #FFFFFF;
+.intro__title {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 58px;
+  color: #ffffff;
 }
 @media screen and (max-width: 760px) {
-    .intro__title{
-        font-size: 40px;
-        line-height: 43px;
-    }
-  } 
+  .intro__title {
+    font-size: 40px;
+    line-height: 43px;
+  }
+}
 
 @media screen and (max-width: 520px) {
-    .intro__title{
-        font-size: 32px;
-        line-height: 35px;
-    }
-  } 
+  .intro__title {
+    font-size: 32px;
+    line-height: 35px;
+  }
+}
